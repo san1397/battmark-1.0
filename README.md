@@ -37,4 +37,4 @@ Stored the transformed data in the AWS S3 target folder.
 After processing, I used Power BI to create interactive dashboards for stakeholders, helping them analyze workshop trends and make informed decisions.
 
 Tools used - 
-AWS S#, AWS Glue, AWS Lambda, PowerBI, QuickSight, Amazon Athena
+AWS S3, AWS Glue, AWS Lambda, PowerBI, QuickSight, Amazon Athena
