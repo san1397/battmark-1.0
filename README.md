@@ -1,8 +1,10 @@
 # Project - BattMark 1.0
 
-## Summary - Battmark is a ticket booking and event hosting platform designed to help small artists seamlessly organize events, workshops, and seminars without relying on manual processes.
+## Summary - 
+Battmark is a ticket booking and event hosting platform designed to help small artists seamlessly organize events, workshops, and seminars without relying on manual processes.
 
-## Problem Statement -  Small artists often face challenges in hosting events on popular platforms like BookMyShow or Paytm Insider, leading them to promote their events manually through social media (Instagram, Facebook, WhatsApp, etc.). Participants register by contacting the host directly and making payments via UPI or cash, requiring the host to manually track payments, registrations, and attendance using spreadsheets. On the event day, hosts must appoint someone to verify payments and mark attendance, causing inefficiencies and last-minute issues.
+## Problem Statement -  
+Small artists often face challenges in hosting events on popular platforms like BookMyShow or Paytm Insider, leading them to promote their events manually through social media (Instagram, Facebook, WhatsApp, etc.). Participants register by contacting the host directly and making payments via UPI or cash, requiring the host to manually track payments, registrations, and attendance using spreadsheets. On the event day, hosts must appoint someone to verify payments and mark attendance, causing inefficiencies and last-minute issues.
 
 ## Solution: - 
 Battmark provides a centralized platform for artists to:
